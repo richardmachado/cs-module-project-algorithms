@@ -24,6 +24,6 @@ def eating_cookies(n):
 
 if __name__ == "__main__":
     # Use the main function here to test out your implementation
-    num_cookies = 100
+    num_cookies = 30
 
     print(f"There are {eating_cookies(num_cookies)} ways for Cookie Monster to eat {num_cookies} cookies")
