@@ -5,6 +5,9 @@ Returns: an integer
 def single_number(arr):
     # Your code here
 
+    #iterate through the numbers
+    #find the nonduplicate
+    
     pass
 
 
